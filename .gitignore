@@ -1,0 +1,5 @@
+data.db
+data/authors.csv
+data/leiden_publications_cleaned.parquet
+data/subjects.csv
+leiden_publications.csv
